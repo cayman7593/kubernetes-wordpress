@@ -12,6 +12,6 @@ spec:
         path: "/"
         backend:
           service:
-            name: loadbalancer
+            name: wordpress
             port:
               number: 80
