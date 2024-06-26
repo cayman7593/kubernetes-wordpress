@@ -5,7 +5,7 @@ metadata:
   namespace: wordpress
 spec:
   rules:
-  - host: "worpress.com"
+  - host: "wordpress.com"
     http:
       paths:
       - pathType: Prefix
