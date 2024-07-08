@@ -2,7 +2,7 @@
 
 
 
-# Déploiement d'un Site WordPress avec MySQL en On-Premise
+# Déploiement d'un Site WordPress avec MySQL en On-Premise avec Kubernetes
 
 ## Description
 
@@ -32,7 +32,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés et c
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone https://github.com/cayman7593/kubernetes-wordpress.git
 cd votre-repo
 ```
 
@@ -59,5 +59,5 @@ Une fois les déploiements terminés, vous pouvez accéder à votre site WordPre
 
 ## Auteurs
 
-- [Votre Nom](https://github.com/votre-utilisateur)
+- (https://github.com/cayman7593)
 
